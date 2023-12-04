@@ -19,4 +19,6 @@ Produk dibangung dengan memanfaatkan berbagai teknologi yakni:
 Data Persebaran masjid saat ini diperoleh melalui google maps. Proses pemerolehan data dilakukan dengan menerapkan metode crawling data dengan memanfaatkan ekstensi instance data scrapper dan geocode by awesome table.
 
 # Tangkapan layar komponen penting produk
+![image](https://github.com/elyueich/responsi/assets/142762429/1ae8d95e-56f8-4385-8356-f72efee813a5)
+![image](https://github.com/elyueich/responsi/assets/142762429/10469878-e484-41c3-ba3a-3ba8a23d3fdd)
 
